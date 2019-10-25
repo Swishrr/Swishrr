@@ -30,7 +30,7 @@ _Italic_
 
 [This is a link to my imgur!](https://imgur.com/user/Swisherr) 
 
-##Images
+## Images
 
 Image:
 
