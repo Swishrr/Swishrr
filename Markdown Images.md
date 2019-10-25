@@ -1,6 +1,6 @@
 ## Images
 
-First Image:
+### First Image:
 
 ![](https://swishrr.github.io/Swishrr/Images/Final_Project.jpg)
 
@@ -8,7 +8,7 @@ First Image:
 > - This is a composted image that i made in Photoshop for my Graphics Course
 
 
-Second Image:
+### Second Image:
 
 ![](https://swishrr.github.io/Swishrr/Images/Composted_Image.png)
 
@@ -16,7 +16,7 @@ Second Image:
 > - This is a composted image that i made in Photoshop for my Graphics Course
 
 
-Third Image:
+### Third Image:
 
 ![](https://swishrr.github.io/Swishrr/Images/WeatheredTexturedSign_CAR.png)
 
