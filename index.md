@@ -37,7 +37,7 @@ Image:
 
 ![](https://swishrr.github.io/Swishrr/Images/Final_Project.jpg)
 
-> Spooky Night.
+> _Spooky Night._
 > - This is a composted image that i made in Photoshop for my Graphics Course
 
 ### Header 3
