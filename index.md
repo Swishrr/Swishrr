@@ -12,19 +12,21 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 Syntax highlighted code block
 
-
 **Bold**
 _Italic_
 `Code`
+
+```
+
+
 # The Giant Worm
-
-
 - We are Working Together
 - To become one
 
 
   _How Do You Stop IT_  
   **DoYouKnowDaWay**
+  
 
 [Link](https://imgur.com/user/Swisherr) 
 
@@ -41,7 +43,7 @@ Image:
 1. Do not try to stop the wave
 2. You will Drown!
 
-```
+
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
