@@ -37,14 +37,32 @@ This is a link to my [imgur!](https://imgur.com/user/Swisherr)
 
 ## Images
 
-Image:
+### First Image:
 
 ![](https://swishrr.github.io/Swishrr/Images/Final_Project.jpg)
 
 > _Spooky Night._
 > - This is a composted image that i made in Photoshop for my Graphics Course
 
-### Header 3
+
+### Second Image:
+
+![](https://swishrr.github.io/Swishrr/Images/Composted_Image.png)
+
+> _Light/Dark._
+> - This is a composted image that i made in Photoshop for my Graphics Course
+
+
+### Third Image:
+
+![](https://swishrr.github.io/Swishrr/Images/WeatheredTexturedSign_CAR.png)
+
+> _Weathered Brick_
+> - This is a composted image that i made in Photoshop for my Graphics Course
+
+
+
+#### Header 4
 
 1. Do not try to stop the wave
 2. You will Drown!
