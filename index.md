@@ -9,21 +9,38 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
+
 Syntax highlighted code block
 
-# Header 1
-## Header 2
+
+**Bold**
+_Italic_
+`Code`
+# The Giant Worm
+
+
+- We are Working Together
+- To become one
+
+
+  _How Do You Stop IT_  
+  **DoYouKnowDaWay**
+
+[Link](https://imgur.com/user/Swisherr) 
+
+##Images
+
+Image:
+
+![](https://imgur.com/JHRHuZw)
+
+> Spooky Night.
+
 ### Header 3
 
-- Bulleted
-- List
+1. Do not try to stop the wave
+2. You will Drown!
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
