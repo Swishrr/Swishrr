@@ -30,13 +30,13 @@ Will look like
   **DoYouKnowDaWay**
   
 
-[This is a link to my imgur!](https://imgur.com/user/Swisherr) 
+This is a link to my [imgur!](https://imgur.com/user/Swisherr) 
 
 ## Images
 
 Image:
 
-![](swishrr.github.io/Swishrr/Images/Final_Project.jpg)
+![](https://swishrr.github.io/Swishrr/Images/Final_Project.jpg)
 
 > Spooky Night.
 
