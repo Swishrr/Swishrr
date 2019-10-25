@@ -18,7 +18,7 @@
 
 ### Third Image:
 
-![](https://swishrr.github.io/Swishrr/Images/WeatheredTexturedSign_CAR.png)
+![](https://swishrr.github.io/Swishrr/Images/Weathered%20Textured%20Sign_CAR.png)
 
 > _Weathered Brick_
 > - This is a composted image that i made in Photoshop for my Graphics Course
