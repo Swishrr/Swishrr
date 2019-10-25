@@ -18,8 +18,7 @@ _Italic_
 
 ```
 # First Header 
-- Testing what the first header |
-Will look like
+- Testing what the first header will look like
 
 ## The Giant Worm
 - We are Working Together
