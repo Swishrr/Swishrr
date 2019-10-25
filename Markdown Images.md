@@ -10,7 +10,7 @@
 
 ### Second Image:
 
-![](https://swishrr.github.io/Swishrr/Images/Composted_Image.png)
+![](https://swishrr.github.io/Swishrr/Images/Composited_Image.png)
 
 > _Light/Dark._
 > - This is a composted image that i made in Photoshop for my Graphics Course
