@@ -13,6 +13,7 @@ more text with two line breaks between.
     1. inner number
     
 [this is the description](http://www.github.com)
+
 Take this [link](https://guides.github.com/features/mastering-markdown/) In order to Master Markdown!
 
 This paragraph has some `variable` inline code.
